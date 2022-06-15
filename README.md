@@ -7,8 +7,7 @@ you on how you would like to approach the problem.
 
 2. Dataset
 
-The FB-PAGES-FOOD dataset can be downloaded from http://networkrepository.com/fb-
-pages-food.php
+The FB-PAGES-FOOD dataset can be downloaded from http://networkrepository.com/fb-pages-food.php
 
 3. Assignment
 Using Python and Jupyter with any generally available libraries, perform exploratory analysis
