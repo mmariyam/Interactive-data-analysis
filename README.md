@@ -1,4 +1,6 @@
-Programming Assignment, October 2020
+Programming Assignment, October 2020. 
+Department of Computing and Informatics at Bournemouth University, United
+Kingdom.
 
 1. Introduction
 In this assignment you will explore a social network dataset and present your findings in a
@@ -24,5 +26,3 @@ Please send us the Jupyter notebook with your complete data analysis workflow, r
 textual descriptions/analysis, visualisations and interactive components.
 Please reference any online code that you may have based your analysis on. Aim to write
 compact and efficient code with some basic documentation.
-Please make sure you document the environment in which we should be able to run your
-code. This is to ensure that we can reproduce your results with minimum effort.
